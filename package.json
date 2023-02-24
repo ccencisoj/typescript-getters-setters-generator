@@ -1,6 +1,6 @@
 {
     "name": "typescript-getters-setters-generator",
-    "displayName": "Typescript getters and setters generator",
+    "displayName": "Typescript Getters and Setters Generator",
     "description": "A VSCode extension to automatically generate getters and setters for class fields",
     "version": "1.0.0",
     "publisher": "ccencisoj",

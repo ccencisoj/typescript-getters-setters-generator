@@ -1,6 +1,6 @@
 # Typescript getters and setters generator (TGSG)
 
-A VSCode extension to automatically generate getters and setters for struct fields.
+A VSCode extension to automatically generate getters and setters for class fields.
 
 ## How to use
 
